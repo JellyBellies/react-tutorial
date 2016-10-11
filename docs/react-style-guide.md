@@ -21,7 +21,8 @@ For more information google for [component-based UI development](https://google.
 
 ### CSS Class Names
 
-Use [BEM](https://bem.info/) approach for naming CSS classes. See also [SUIT CSS](https://suitcss.github.io/) for inspiration.
+Use [BEM](https://bem.info/) approach for naming CSS classes. 
+See also [SUIT CSS](https://suitcss.github.io/) for inspiration.
 
 ```less
 // CSS
